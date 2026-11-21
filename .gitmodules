@@ -1,0 +1,3 @@
+[submodule "vendor/MiniSpring"]
+	path = vendor/MiniSpring
+	url = https://github.com/tokomoko/MiniSpring.git
