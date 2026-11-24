@@ -5,6 +5,8 @@
 #include <MiniSpring.h>
 
 #include <algorithm>
+#include <fstream>
+#include <sstream>
 
 class AuthController : public Controller {
  public:
